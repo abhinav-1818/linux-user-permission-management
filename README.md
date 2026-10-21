@@ -174,7 +174,7 @@ By completing this project, I practise Linux user administration, group manageme
 - Add automated test cases.
 - Improve logging and auditability.
 
-🔄 Project Workflow & Architecture
+## 🔄 Project Workflow & Architecture
 ![Linux User & Permission Management System Architecture](architecture/linux-admin-workflow.png)
 
 
